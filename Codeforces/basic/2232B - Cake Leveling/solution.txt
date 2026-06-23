@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+
+public class Main {
+    public static void main(String[] args) {
+       Scanner sc = new Scanner(System.in);
+       int t = sc.nextInt();
+       while(t-->0){
+         int n=sc.nextInt();
+         long[] arr= new long[n];
+            for(int i=0;i<n;i++){
+                arr[i]=sc.nextLong();
+            }
+
+        long[] ans= new long[n];
+        long sum=0;
+        long minH=Long.MAX_VALUE;
+        for(int i=0;i<n;i++){
+            sum=sum+arr[i];
+            minH=Math.min(minH,sum/(i+1));
+            ans[i]=minH;
+        }
+        for(int i=0;i<n;i++){
+            System.out.print(ans[i]+" ");
+        }
+        System.out.println();
+    }
+
+   
+}
+}
