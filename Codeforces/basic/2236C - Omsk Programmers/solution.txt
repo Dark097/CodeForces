@@ -1,0 +1,67 @@
+import java.util.*;
+public class Q2 {
+
+
+        public static void main(String[] args) {
+            Scanner sc = new Scanner(System.in);
+
+            int t = sc.nextInt();
+
+            while (t-- > 0) {
+                long a = sc.nextLong();
+                long b = sc.nextLong();
+                long x = sc.nextLong();
+
+                List<long[]> listA = new ArrayList<>();
+                List<long[]> listB = new ArrayList<>();
+
+                long cur = a;
+                int cost = 0;
+
+                while (true) {
+                    listA.add(new long[]{cur, cost});
+
+                    if (cur == 0) break;
+
+                    cur /= x;
+                    cost++;
+                }
+
+                cur = b;
+                cost = 0;
+
+                while (true) {
+                    listB.add(new long[]{cur, cost});
+
+                    if (cur == 0) break;
+
+                    cur /= x;
+                    cost++;
+                }
+
+                long ans = Long.MAX_VALUE;
+
+                for (long[] p1 : listA) {
+                    for (long[] p2 : listB) {
+                        long valueA = p1[0];
+                        long costA = p1[1];
+
+                        long valueB = p2[0];
+                        long costB = p2[1];
+
+                        ans = Math.min(
+                                ans,
+                                costA + costB + Math.abs(valueA - valueB)
+                        );
+                    }
+                }
+
+                System.out.println(ans);
+            }
+
+            sc.close();
+        }
+    }
+    
+
+

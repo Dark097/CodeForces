@@ -6,3 +6,4 @@
 | 4 | [2232B - Cake Leveling](./Codeforces/basic/2232B%20-%20Cake%20Leveling) | [Codeforces](https://codeforces.com/problemset/problem/2232/B) | basic | 23 Jun 2026 | 07:37 pm |
 | 5 | [2237A - Destroying Towers](./Codeforces/basic/2237A%20-%20Destroying%20Towers) | [Codeforces](https://codeforces.com/problemset/problem/2237/A) | basic | 23 Jun 2026 | 07:38 pm |
 | 6 | [2148A - Sublime Sequence](./Codeforces/basic/2148A%20-%20Sublime%20Sequence) | [Codeforces](https://codeforces.com/problemset/problem/2148/A) | basic | 23 Jun 2026 | 07:38 pm |
+| 7 | [2236C - Omsk Programmers](./Codeforces/basic/2236C%20-%20Omsk%20Programmers) | [Codeforces](https://codeforces.com/problemset/problem/2236/C) | basic | 23 Jun 2026 | 07:38 pm |
