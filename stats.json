@@ -1,30 +1,32 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-23",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 5
+    "basic": 6
   },
   "syncedProblems": {
     "Codeforces_231A_-_Team": true,
     "Codeforces_71A_-_Way_Too_Long_Words": true,
     "Codeforces_4A_-_Watermelon": true,
     "Codeforces_2232B_-_Cake_Leveling": true,
-    "Codeforces_2237A_-_Destroying_Towers": true
+    "Codeforces_2237A_-_Destroying_Towers": true,
+    "Codeforces_2148A_-_Sublime_Sequence": true
   },
   "activityHistory": {
-    "2026-06-23": 5
+    "2026-06-23": 6
   },
   "todayProblems": [
     "231A - Team",
     "71A - Way Too Long Words",
     "4A - Watermelon",
     "2232B - Cake Leveling",
-    "2237A - Destroying Towers"
+    "2237A - Destroying Towers",
+    "2148A - Sublime Sequence"
   ]
 }
