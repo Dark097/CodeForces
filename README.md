@@ -9,3 +9,4 @@
 | 7 | [2236C - Omsk Programmers](./Codeforces/basic/2236C%20-%20Omsk%20Programmers) | [Codeforces](https://codeforces.com/problemset/problem/2236/C) | basic | 23 Jun 2026 | 07:38 pm |
 | 8 | [2236A - Games on the Train](./Codeforces/basic/2236A%20-%20Games%20on%20the%20Train) | [Codeforces](https://codeforces.com/problemset/problem/2236/A) | basic | 23 Jun 2026 | 07:38 pm |
 | 9 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 23 Jun 2026 | 07:49 pm |
+| 10 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 23 Jun 2026 | 07:58 pm |
