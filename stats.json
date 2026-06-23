@@ -1,14 +1,14 @@
 {
-  "totalSolved": 10,
+  "totalSolved": 11,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-23",
-  "todayCount": 10,
+  "todayCount": 11,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 10
+    "basic": 11
   },
   "syncedProblems": {
     "Codeforces_231A_-_Team": true,
@@ -20,10 +20,11 @@
     "Codeforces_2236C_-_Omsk_Programmers": true,
     "Codeforces_2236A_-_Games_on_the_Train": true,
     "Codeforces_282A_-_Bit": true,
-    "Codeforces_158A_-_Next_Round": true
+    "Codeforces_158A_-_Next_Round": true,
+    "Codeforces_50A_-_Domino_piling": true
   },
   "activityHistory": {
-    "2026-06-23": 10
+    "2026-06-23": 11
   },
   "todayProblems": [
     "231A - Team",
@@ -35,6 +36,7 @@
     "2236C - Omsk Programmers",
     "2236A - Games on the Train",
     "282A - Bit",
-    "158A - Next Round"
+    "158A - Next Round",
+    "50A - Domino piling"
   ]
 }
