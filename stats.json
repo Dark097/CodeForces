@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-23",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 1
+    "basic": 2
   },
   "syncedProblems": {
-    "Codeforces_231A_-_Team": true
+    "Codeforces_231A_-_Team": true,
+    "Codeforces_71A_-_Way_Too_Long_Words": true
   },
   "activityHistory": {
-    "2026-06-23": 1
+    "2026-06-23": 2
   },
   "todayProblems": [
-    "231A - Team"
+    "231A - Team",
+    "71A - Way Too Long Words"
   ]
 }
