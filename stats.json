@@ -1,14 +1,14 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-23",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 7
+    "basic": 8
   },
   "syncedProblems": {
     "Codeforces_231A_-_Team": true,
@@ -17,10 +17,11 @@
     "Codeforces_2232B_-_Cake_Leveling": true,
     "Codeforces_2237A_-_Destroying_Towers": true,
     "Codeforces_2148A_-_Sublime_Sequence": true,
-    "Codeforces_2236C_-_Omsk_Programmers": true
+    "Codeforces_2236C_-_Omsk_Programmers": true,
+    "Codeforces_2236A_-_Games_on_the_Train": true
   },
   "activityHistory": {
-    "2026-06-23": 7
+    "2026-06-23": 8
   },
   "todayProblems": [
     "231A - Team",
@@ -29,6 +30,7 @@
     "2232B - Cake Leveling",
     "2237A - Destroying Towers",
     "2148A - Sublime Sequence",
-    "2236C - Omsk Programmers"
+    "2236C - Omsk Programmers",
+    "2236A - Games on the Train"
   ]
 }
