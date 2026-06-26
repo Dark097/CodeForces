@@ -1,0 +1,27 @@
+import java.util.HashMap;
+import java.util.Scanner;
+
+public class Main{
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        HashMap<Character,Integer> mpp= new HashMap<>();
+        String name= sc.next();
+        int count=0;
+        for(int i=0;i<name.length();i++){
+           if(mpp.containsKey(name.charAt(i))){
+            mpp.put(name.charAt(i),mpp.get(name.charAt(i))+1);
+           }
+           else{
+            mpp.put(name.charAt(i),1);
+           }
+            }
+        
+
+        if(mpp.size()%2==0){
+            System.out.println("CHAT WITH HER!");
+        }
+        else{
+            System.out.println("IGNORE HIM!");
+        }
+    }
+}
