@@ -13,3 +13,4 @@
 | 11 | [50A - Domino piling](./Codeforces/basic/50A%20-%20Domino%20piling) | [Codeforces](https://codeforces.com/problemset/problem/50/A) | basic | 23 Jun 2026 | 08:06 pm |
 | 12 | [112A - Petya and Strings](./Codeforces/basic/112A%20-%20Petya%20and%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/112/A) | basic | 27 Jun 2026 | 02:55 am |
 | 13 | [236A - Boy or Girl](./Codeforces/basic/236A%20-%20Boy%20or%20Girl) | [Codeforces](https://codeforces.com/problemset/problem/236/A) | basic | 27 Jun 2026 | 02:55 am |
+| 14 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 27 Jun 2026 | 03:10 am |
