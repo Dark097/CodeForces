@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class AWrongSubtraction {
+
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int k= sc.nextInt();
+        int t= sc.nextInt();
+        while(t-->0){
+            String s=String.valueOf(k);
+            if(s.charAt(s.length()-1)=='0'){
+                k=k/10;
+                
+            }
+            else{
+                k=k-1;
+            }
+        }
+
+        System.out.println(k);
+    }
+}
