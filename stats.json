@@ -1,14 +1,14 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-27",
-  "todayCount": 3,
+  "todayCount": 4,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "Codeforces_231A_-_Team": true,
@@ -24,15 +24,17 @@
     "Codeforces_50A_-_Domino_piling": true,
     "Codeforces_112A_-_Petya_and_Strings": true,
     "Codeforces_236A_-_Boy_or_Girl": true,
-    "Codeforces_339A_-_Helpful_Maths": true
+    "Codeforces_339A_-_Helpful_Maths": true,
+    "Codeforces_281A_-_Word_Capitalization": true
   },
   "activityHistory": {
     "2026-06-23": 11,
-    "2026-06-27": 3
+    "2026-06-27": 4
   },
   "todayProblems": [
     "112A - Petya and Strings",
     "236A - Boy or Girl",
-    "339A - Helpful Maths"
+    "339A - Helpful Maths",
+    "281A - Word Capitalization"
   ]
 }
