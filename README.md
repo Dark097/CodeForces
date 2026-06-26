@@ -19,3 +19,4 @@
 | 17 | [617A - Elephant](./Codeforces/basic/617A%20-%20Elephant) | [Codeforces](https://codeforces.com/problemset/problem/617/A) | basic | 27 Jun 2026 | 03:48 am |
 | 18 | [266A - Stones on the Table](./Codeforces/basic/266A%20-%20Stones%20on%20the%20Table) | [Codeforces](https://codeforces.com/problemset/problem/266/A) | basic | 27 Jun 2026 | 04:08 am |
 | 19 | [546A - Soldier and Bananas](./Codeforces/basic/546A%20-%20Soldier%20and%20Bananas) | [Codeforces](https://codeforces.com/problemset/problem/546/A) | basic | 27 Jun 2026 | 04:18 am |
+| 20 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 27 Jun 2026 | 04:29 am |
