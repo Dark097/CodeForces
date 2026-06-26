@@ -18,3 +18,4 @@
 | 16 | [791A - Bear and Big Brother](./Codeforces/basic/791A%20-%20Bear%20and%20Big%20Brother) | [Codeforces](https://codeforces.com/problemset/problem/791/A) | basic | 27 Jun 2026 | 03:40 am |
 | 17 | [617A - Elephant](./Codeforces/basic/617A%20-%20Elephant) | [Codeforces](https://codeforces.com/problemset/problem/617/A) | basic | 27 Jun 2026 | 03:48 am |
 | 18 | [266A - Stones on the Table](./Codeforces/basic/266A%20-%20Stones%20on%20the%20Table) | [Codeforces](https://codeforces.com/problemset/problem/266/A) | basic | 27 Jun 2026 | 04:08 am |
+| 19 | [546A - Soldier and Bananas](./Codeforces/basic/546A%20-%20Soldier%20and%20Bananas) | [Codeforces](https://codeforces.com/problemset/problem/546/A) | basic | 27 Jun 2026 | 04:18 am |

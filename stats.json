@@ -1,14 +1,14 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-27",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 18
+    "basic": 19
   },
   "syncedProblems": {
     "Codeforces_231A_-_Team": true,
@@ -28,11 +28,12 @@
     "Codeforces_281A_-_Word_Capitalization": true,
     "Codeforces_791A_-_Bear_and_Big_Brother": true,
     "Codeforces_617A_-_Elephant": true,
-    "Codeforces_266A_-_Stones_on_the_Table": true
+    "Codeforces_266A_-_Stones_on_the_Table": true,
+    "Codeforces_546A_-_Soldier_and_Bananas": true
   },
   "activityHistory": {
     "2026-06-23": 11,
-    "2026-06-27": 7
+    "2026-06-27": 8
   },
   "todayProblems": [
     "112A - Petya and Strings",
@@ -41,6 +42,7 @@
     "281A - Word Capitalization",
     "791A - Bear and Big Brother",
     "617A - Elephant",
-    "266A - Stones on the Table"
+    "266A - Stones on the Table",
+    "546A - Soldier and Bananas"
   ]
 }
