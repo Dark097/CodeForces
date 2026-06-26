@@ -11,3 +11,4 @@
 | 9 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 23 Jun 2026 | 07:49 pm |
 | 10 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 23 Jun 2026 | 07:58 pm |
 | 11 | [50A - Domino piling](./Codeforces/basic/50A%20-%20Domino%20piling) | [Codeforces](https://codeforces.com/problemset/problem/50/A) | basic | 23 Jun 2026 | 08:06 pm |
+| 12 | [112A - Petya and Strings](./Codeforces/basic/112A%20-%20Petya%20and%20Strings) | [Codeforces](https://codeforces.com/problemset/problem/112/A) | basic | 27 Jun 2026 | 02:55 am |
