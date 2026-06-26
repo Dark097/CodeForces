@@ -1,14 +1,14 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-27",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 16
+    "basic": 17
   },
   "syncedProblems": {
     "Codeforces_231A_-_Team": true,
@@ -26,17 +26,19 @@
     "Codeforces_236A_-_Boy_or_Girl": true,
     "Codeforces_339A_-_Helpful_Maths": true,
     "Codeforces_281A_-_Word_Capitalization": true,
-    "Codeforces_791A_-_Bear_and_Big_Brother": true
+    "Codeforces_791A_-_Bear_and_Big_Brother": true,
+    "Codeforces_617A_-_Elephant": true
   },
   "activityHistory": {
     "2026-06-23": 11,
-    "2026-06-27": 5
+    "2026-06-27": 6
   },
   "todayProblems": [
     "112A - Petya and Strings",
     "236A - Boy or Girl",
     "339A - Helpful Maths",
     "281A - Word Capitalization",
-    "791A - Bear and Big Brother"
+    "791A - Bear and Big Brother",
+    "617A - Elephant"
   ]
 }

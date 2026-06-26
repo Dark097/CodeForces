@@ -16,3 +16,4 @@
 | 14 | [339A - Helpful Maths](./Codeforces/basic/339A%20-%20Helpful%20Maths) | [Codeforces](https://codeforces.com/problemset/problem/339/A) | basic | 27 Jun 2026 | 03:10 am |
 | 15 | [281A - Word Capitalization](./Codeforces/basic/281A%20-%20Word%20Capitalization) | [Codeforces](https://codeforces.com/problemset/problem/281/A) | basic | 27 Jun 2026 | 03:28 am |
 | 16 | [791A - Bear and Big Brother](./Codeforces/basic/791A%20-%20Bear%20and%20Big%20Brother) | [Codeforces](https://codeforces.com/problemset/problem/791/A) | basic | 27 Jun 2026 | 03:40 am |
+| 17 | [617A - Elephant](./Codeforces/basic/617A%20-%20Elephant) | [Codeforces](https://codeforces.com/problemset/problem/617/A) | basic | 27 Jun 2026 | 03:48 am |
