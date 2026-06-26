@@ -21,3 +21,4 @@
 | 19 | [546A - Soldier and Bananas](./Codeforces/basic/546A%20-%20Soldier%20and%20Bananas) | [Codeforces](https://codeforces.com/problemset/problem/546/A) | basic | 27 Jun 2026 | 04:18 am |
 | 20 | [59A - Word](./Codeforces/basic/59A%20-%20Word) | [Codeforces](https://codeforces.com/problemset/problem/59/A) | basic | 27 Jun 2026 | 04:29 am |
 | 21 | [977A - Wrong Subtraction](./Codeforces/basic/977A%20-%20Wrong%20Subtraction) | [Codeforces](https://codeforces.com/problemset/problem/977/A) | basic | 27 Jun 2026 | 04:39 am |
+| 22 | [110A - Nearly Lucky Number](./Codeforces/basic/110A%20-%20Nearly%20Lucky%20Number) | [Codeforces](https://codeforces.com/problemset/problem/110/A) | basic | 27 Jun 2026 | 04:50 am |
