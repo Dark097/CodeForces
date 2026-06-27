@@ -23,3 +23,4 @@
 | 21 | [977A - Wrong Subtraction](./Codeforces/basic/977A%20-%20Wrong%20Subtraction) | [Codeforces](https://codeforces.com/problemset/problem/977/A) | basic | 27 Jun 2026 | 04:39 am |
 | 22 | [110A - Nearly Lucky Number](./Codeforces/basic/110A%20-%20Nearly%20Lucky%20Number) | [Codeforces](https://codeforces.com/problemset/problem/110/A) | basic | 27 Jun 2026 | 04:50 am |
 | 23 | [734A - Anton and Danik](./Codeforces/basic/734A%20-%20Anton%20and%20Danik) | [Codeforces](https://codeforces.com/problemset/problem/734/A) | basic | 27 Jun 2026 | 04:56 am |
+| 24 | [41A - Translation](./Codeforces/basic/41A%20-%20Translation) | [Codeforces](https://codeforces.com/problemset/problem/41/A) | basic | 27 Jun 2026 | 05:32 am |

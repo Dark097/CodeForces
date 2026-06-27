@@ -1,14 +1,14 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-06-27",
-  "todayCount": 12,
+  "todayCount": 13,
   "difficultyCounts": {
     "easy": 0,
     "medium": 0,
     "hard": 0,
-    "basic": 23
+    "basic": 24
   },
   "syncedProblems": {
     "Codeforces_231A_-_Team": true,
@@ -33,11 +33,12 @@
     "Codeforces_59A_-_Word": true,
     "Codeforces_977A_-_Wrong_Subtraction": true,
     "Codeforces_110A_-_Nearly_Lucky_Number": true,
-    "Codeforces_734A_-_Anton_and_Danik": true
+    "Codeforces_734A_-_Anton_and_Danik": true,
+    "Codeforces_41A_-_Translation": true
   },
   "activityHistory": {
     "2026-06-23": 11,
-    "2026-06-27": 12
+    "2026-06-27": 13
   },
   "todayProblems": [
     "112A - Petya and Strings",
@@ -51,6 +52,7 @@
     "59A - Word",
     "977A - Wrong Subtraction",
     "110A - Nearly Lucky Number",
-    "734A - Anton and Danik"
+    "734A - Anton and Danik",
+    "41A - Translation"
   ]
 }
